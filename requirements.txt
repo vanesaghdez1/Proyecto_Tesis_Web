@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+scipy
+statsmodels
+openpyxl
+# Opcional (para CSV grandes):
+polars
