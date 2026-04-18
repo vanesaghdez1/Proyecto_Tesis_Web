@@ -4,6 +4,8 @@ numpy
 plotly
 scipy
 statsmodels
+matplotlib
+seaborn
 openpyxl
 # Opcional (para CSV grandes):
 polars
