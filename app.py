@@ -243,13 +243,6 @@ else:
     st.info("No hay columnas numéricas en común entre todos los archivos.")
 
 
-"""
-FASE 3 — Validación de Estandarización PRNU  (versión mejorada)
-================================================================
-REEMPLAZA todo el bloque de Fase 3 en tu app.py existente.
-Métricas: CoV, d de Cohen, prueba t de Welch, JSD, Δ media
-"""
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
